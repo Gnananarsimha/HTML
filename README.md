@@ -1,1 +1,1 @@
-this contains events
+This page contains javascript events
